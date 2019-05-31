@@ -6,3 +6,9 @@ A jupyter notebook following the process of developing an algorithm that predict
 
 ### Game_Predictions.ipynb
 A jupyter notebook outlining the process of creating an algorithm to predict the outcome of NHL regular season games based strictly on each participating team's average statistics over their past 15 games.  While this only allows for prediction of the final 67 games of each team's season, it resulted in a respectable 58% accuracy.
+
+### NHL Predictive Analytics Write Up.pdf
+Explains the development and methods used in development of the two models developed in Pred_Num_Wins.ipynb and Game_Predictions.ipynb
+
+### NHL Predictive Poster.pdf
+Highlights findings and accuracies of the models developed in Pred_Num_Wins.ipynb and Game_Predictions.ipynb
